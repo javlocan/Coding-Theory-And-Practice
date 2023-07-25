@@ -1,3 +1,3 @@
-# ejercicios
+# Ejercicios
 
 - [[Minecraft Clone]]

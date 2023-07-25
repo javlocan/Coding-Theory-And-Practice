@@ -1,3 +1,6 @@
+---
+tags: h2
+---
 
 # Ejercicios
 
