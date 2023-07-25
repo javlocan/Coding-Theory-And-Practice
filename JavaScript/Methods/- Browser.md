@@ -1,3 +1,3 @@
-# Browser
+### Browser
 
 - [[Scroll Control Speed]]

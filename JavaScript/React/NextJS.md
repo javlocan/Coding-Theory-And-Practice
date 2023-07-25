@@ -1,3 +1,3 @@
-# NextJS
+### NextJS
 
 - [[CMS With Strapi and Next]]

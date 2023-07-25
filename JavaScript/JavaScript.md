@@ -2,10 +2,10 @@
 tags: h2
 ---
 
-# [[Methods]]
+![[- Methods]]
 
-# [[Browser]]
+![[- React]]
 
-# [[Ejercicios]]
+![[- Ejercicios]]
 
-![[Tools]]
+![[- Tools]]
