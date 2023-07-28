@@ -1,4 +1,5 @@
-# Holi 👋 yo soy javi #h1
+# Holi 👋 yo soy javi 
+#h1
 
 ## Este repo está sincronizado con mi carpeta personal de Obsidian sobre teoría y práctica de programación. Es como un mapa de lo que he aprendido, estoy apriendo y quiero aprender en el futuro, junto con una colección de ejercicios. Espero que pueda ser de ayuda / que nos podamos ser de ayuda.
 

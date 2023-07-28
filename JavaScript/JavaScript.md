@@ -6,6 +6,8 @@ tags: h2
 
 ![[- React]]
 
-![[- Ejercicios]]
-
 ![[- Tools]]
+
+![[- Typescript]]
+
+![[- Ejercicios]]
