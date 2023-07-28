@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/56802443/react-call-function-before-window-tab-close
